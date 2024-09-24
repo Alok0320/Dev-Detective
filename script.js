@@ -151,7 +151,7 @@ function init() {
   //initialise dark-mode variable to false;
   //darkMode = true -> dark mode enable karna h 
   //darMode = false -> light mode enable karna h 
-  darkMode = false;
+  darkMode = true;
 
   //HW
 // const prefersDarkMode = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
